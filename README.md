@@ -37,10 +37,15 @@ After working with React for about four months, I wanted to:
 
 This project was built over two weeks (or one week if you skip my ideation phase!). Currently, I'm working on a new project featuring the complete **MERN** stack (MongoDB, Express.js, React, and Node.js) for **Zoblik Internationals**. Stay tuned for updates!
 
-## 🔧 Getting Started
 
-To run this project locally:
+## 🔧 How to test it out?
 
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/yourusername/employee-management-system.git
+Here is the link which is of the running project through verecel :
+for admin login: 
+email: admin@me.com
+password: 123
+
+for user login:(employee2, employee3, etc)
+email: employee1@example.com
+password: 123
+
