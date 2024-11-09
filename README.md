@@ -40,7 +40,7 @@ This project was built over two weeks (or one week if you skip my ideation phase
 
 ## 🔧 How to test it out?
 
-Here is the link which is of the running project through verecel :
+Here is the link which is of the running project through verecel : https://employee-management-system-4s1y.vercel.app/
 for admin login: 
 email: admin@me.com
 password: 123
